@@ -23,5 +23,5 @@ var ips = new webos_discovery.Client().get_ips();
 If you are using the 1.0.1 or above you can use the Log option
 like this:
 ```csharp
-var ips = new webos_discovery.Client(true).get_ips();
+var ips = new webos_discovery.Client().get_ips(true);
 ```
