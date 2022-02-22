@@ -13,6 +13,6 @@ var ips = new webos_discovery.Client().get_ips();
 ```
 
 To include it use :
-```
+```csharp
 using webos_discovery
 ```
