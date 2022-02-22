@@ -9,7 +9,7 @@ This program is a very simple program to discover lg tvs, based of the python pa
 
 It may take a while to load
 
-##To include it use :
+## To include it use :
 ```csharp
 using webos_discovery;
 ```
